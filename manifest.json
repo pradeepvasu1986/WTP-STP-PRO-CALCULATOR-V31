@@ -1,0 +1,16 @@
+{
+"name": "WTP & STP Master Calculator",
+"short_name": "WTP-STP Calc",
+"description": "Complete Industrial Design Engine for Water Treatment Plants and Sewage Treatment Plants.",
+"start_url": "/",
+"display": "standalone",
+"background_color": "#09090b",
+"theme_color": "#991b1b",
+"icons": [
+{
+"src": "icon.png",
+"sizes": "192x192 512x512",
+"type": "image/png"
+}
+ ]
+}
